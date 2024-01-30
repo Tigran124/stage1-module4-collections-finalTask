@@ -1,6 +1,5 @@
 package com.epam.mjc.collections.combined;
 
-import javax.swing.text.html.parser.Entity;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
